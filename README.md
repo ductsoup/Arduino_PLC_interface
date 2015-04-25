@@ -15,9 +15,7 @@ There's also a DC-DC buck converter to power to the Arduino from 24VDC.
 The terminal block were a little larger in life than in Fritzig so I had to move a couple things around.
 
 ##Credits
-I haven't worked with analog designs since college. Thanks to Mike over at Adafruit for his helpful nudges.
-
-[Adafruit Forum: 0/4-20ma current loop output](https://forums.adafruit.com/viewtopic.php?f=25&t=68146)
+I haven't worked with analog designs since college. Thanks to Mike over at Adafruit for his helpful reminders. [Adafruit Forum: 0/4-20ma current loop output](https://forums.adafruit.com/viewtopic.php?f=25&t=68146)
 
 
 
